@@ -1,0 +1,3 @@
+Update
+1. geser icon kopkar bsm di menu header ke Kiri
+2. Menambahkan dan Memperbaki Slider di Header
